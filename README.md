@@ -1,4 +1,4 @@
-```markdown
+
 # 🚀 Full Stack Portfolio & API Project
 
 > **DecodeLabs Industrial Training Kit | Batch 2026**
