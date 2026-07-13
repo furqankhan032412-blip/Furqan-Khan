@@ -642,5 +642,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **© 2026 Furqan Khan | DecodeLabs Industrial Training Program | Batch 2026**
-```
-
