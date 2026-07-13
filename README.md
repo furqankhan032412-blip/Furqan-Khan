@@ -539,16 +539,16 @@ Import the following collection to test all endpoints:
 ## 📸 Screenshots
 
 ### Home Page (Light Mode)
-(<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/78739e64-c726-47c6-bf42-9cf05b5b2d7d" />
-)
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/78739e64-c726-47c6-bf42-9cf05b5b2d7d" />
+
 
 ### Home Page (Dark Mode)
-(<img width="1920" height="1035" alt="image" src="https://github.com/user-attachments/assets/f6896c72-6170-4861-93f2-c50eb909a465" />
-)
+<img width="1920" height="1035" alt="image" src="https://github.com/user-attachments/assets/f6896c72-6170-4861-93f2-c50eb909a465" />
+
 
 ### Projects Section
-(<img width="1920" height="1019" alt="image" src="https://github.com/user-attachments/assets/a5c23f98-8d0b-44d2-ae91-07efa52fb322" />
-)
+<img width="1920" height="1019" alt="image" src="https://github.com/user-attachments/assets/a5c23f98-8d0b-44d2-ae91-07efa52fb322" />
+
 
 ### API Response Example
 ```json
