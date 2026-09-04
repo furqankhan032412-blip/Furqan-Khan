@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://furqankhan032412-blip.github.io/Furqan-Khan/sitemap.xml
