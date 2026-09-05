@@ -650,6 +650,8 @@ header {
     overflow: hidden;
     box-shadow: 0 4px 20px var(--shadow);
     transition: var(--transition);
+    display: flex;
+    flex-direction: column;
 }
 
 .project-card:hover {
@@ -715,8 +717,15 @@ header {
     transform: scale(1.1);
 }
 
+/* ======================================== */
+/* PROJECT INFO - FIXED BUTTON PLACEMENT    */
+/* ======================================== */
+
 .project-info {
     padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
 }
 
 .project-tags {
@@ -744,6 +753,25 @@ header {
     color: var(--text-light);
     font-size: 0.95rem;
     margin-bottom: 1rem;
+    flex: 1;
+}
+
+/* ======================================== */
+/* PROJECT BUTTON WRAPPER                   */
+/* ======================================== */
+
+.project-btn-wrapper {
+    margin-top: auto;
+    padding-top: 0.5rem;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.project-btn-wrapper .btn-small {
+    width: auto;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
 }
 
 /* ======================================== */
